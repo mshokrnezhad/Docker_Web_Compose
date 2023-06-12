@@ -1,4 +1,4 @@
-# Sim_Web_Cmp
+# Docker_Web_Compose
 A simple HTML-based Docker compose set with a Dockerfile, a compose file, an app.py as a simple "Hello World!" web page, and a requirements file.
 
 Steps:
